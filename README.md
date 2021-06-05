@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christopher Ebron
 - 👀 My main interest is in full stack Web Development 
-- 🌱 I’m currently in my last year of my B.S. in Computer Science program
+- 🌱 I’m currently in the last year of my B.S. in Computer Science program
 - 📫 You can reach me at chrisebron7@gmail.com
 
 <!---
